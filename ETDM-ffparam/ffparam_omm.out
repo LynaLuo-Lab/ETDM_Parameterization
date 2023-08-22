@@ -1,0 +1,5 @@
+ERROR:root:Warning: Your total charge does not match the sum of partial charges.
+Loading CHARMM Parameters
+All CHARMM Parameters loaded successfully.
+Initial Energy of the system is 99.377 kcal/mol
+Energy at Minima is 85.122 kcal/mol

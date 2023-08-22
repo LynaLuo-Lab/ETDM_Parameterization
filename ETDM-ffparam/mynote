@@ -1,0 +1,4 @@
+ethidium.str is from charmm-gui
+ethidium.regrouped.str was used for charge fitting (you have to move all the atoms into their groups by hand and then move them back again with the new charges)
+
+

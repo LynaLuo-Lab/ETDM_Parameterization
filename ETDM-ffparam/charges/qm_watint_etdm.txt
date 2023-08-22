@@ -1,0 +1,20 @@
+###### QM INTERACTION ENERGY AND DISTANCE #####
+ETDM_H25_WAT_90        -4.921    2.65 
+ETDM_H32_WAT_90        -4.781    2.5 
+ETDM_H33_WAT_90        -3.318    2.75 
+ETDM_H40_WAT_0        -9.758    2.05 
+ETDM_H40_WAT_90        -8.542    2.1 
+ETDM_H41_WAT_0        -9.399    2.05 
+ETDM_H41_WAT_90        -7.823    2.1 
+ETDM_H42_WAT_0        -8.633    2.05 
+ETDM_H42_WAT_90        -7.730    2.1 
+ETDM_H43_WAT_0        -9.605    2.05 
+ETDM_H43_WAT_90        -8.330    2.1 
+ETDM_N2_WAT_LN1         2.150    3.0 
+ETDM_N2_WAT_LN2         2.578    3.0 
+ETDM_N2_WAT_LP1         6.438    3.0 
+ETDM_N2_WAT_LP2         1.443    3.0 
+ETDM_N3_WAT_LN1         1.830    3.0 
+ETDM_N3_WAT_LN2        -0.218    2.55 
+ETDM_N3_WAT_LP1         1.848    2.8 
+ETDM_N3_WAT_LP2         0.015    2.65 

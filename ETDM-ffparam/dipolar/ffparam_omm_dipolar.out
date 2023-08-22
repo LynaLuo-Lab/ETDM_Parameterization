@@ -1,0 +1,8 @@
+ERROR:root:Warning: Your total charge does not match the sum of partial charges.
+Loading CHARMM Parameters
+All CHARMM Parameters loaded successfully.
+Energy at Minima is 85.122 kcal/mol
+Center of Geometry found at:  (0.03973183349113573, -0.2230044767599214, 0.06110913874842729)
+Sum of charges = 1.0009999999999997 e
+Dipole moment in DEBYE:  -0.9636146413950113 -1.377404856894592 -0.2437963656935751 1.698597652427744
+Written MM dipole in /Users/luoy/Dropbox/python-notebook/ETDM_Parameterization/dipolar/omm_dipolar_etdm.txt

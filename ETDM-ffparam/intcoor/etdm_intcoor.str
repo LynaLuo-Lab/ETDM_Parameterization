@@ -1,0 +1,480 @@
+quick 1 4 
+echo  N1-C4 ?dist 
+quick 1 5 
+echo  N1-C5 ?dist 
+quick 1 9 
+echo  N1-C9 ?dist 
+quick 4 6 
+echo  C4-C6 ?dist 
+quick 4 10 
+echo  C4-C10 ?dist 
+quick 5 7 
+echo  C5-C7 ?dist 
+quick 5 11 
+echo  C5-C11 ?dist 
+quick 9 17 
+echo  C9-C17 ?dist 
+quick 9 25 
+echo  C9-H25 ?dist 
+quick 9 26 
+echo  C9-H26 ?dist 
+quick 2 15 
+echo  N2-C15 ?dist 
+quick 2 40 
+echo  N2-H40 ?dist 
+quick 2 41 
+echo  N2-H41 ?dist 
+quick 11 15 
+echo  C11-C15 ?dist 
+quick 15 18 
+echo  C15-C18 ?dist 
+quick 3 16 
+echo  N3-C16 ?dist 
+quick 3 42 
+echo  N3-H42 ?dist 
+quick 3 43 
+echo  N3-H43 ?dist 
+quick 12 16 
+echo  C12-C16 ?dist 
+quick 16 19 
+echo  C16-C19 ?dist 
+quick 6 8 
+echo  C6-C8 ?dist 
+quick 6 12 
+echo  C6-C12 ?dist 
+quick 10 20 
+echo  C10-C20 ?dist 
+quick 10 21 
+echo  C10-C21 ?dist 
+quick 7 8 
+echo  C7-C8 ?dist 
+quick 7 13 
+echo  C7-C13 ?dist 
+quick 11 27 
+echo  C11-H27 ?dist 
+quick 8 14 
+echo  C8-C14 ?dist 
+quick 12 28 
+echo  C12-H28 ?dist 
+quick 13 18 
+echo  C13-C18 ?dist 
+quick 13 29 
+echo  C13-H29 ?dist 
+quick 14 19 
+echo  C14-C19 ?dist 
+quick 14 30 
+echo  C14-H30 ?dist 
+quick 17 31 
+echo  C17-H31 ?dist 
+quick 17 32 
+echo  C17-H32 ?dist 
+quick 17 33 
+echo  C17-H33 ?dist 
+quick 20 22 
+echo  C20-C22 ?dist 
+quick 20 36 
+echo  C20-H36 ?dist 
+quick 21 23 
+echo  C21-C23 ?dist 
+quick 21 37 
+echo  C21-H37 ?dist 
+quick 18 34 
+echo  C18-H34 ?dist 
+quick 19 35 
+echo  C19-H35 ?dist 
+quick 22 24 
+echo  C22-C24 ?dist 
+quick 22 38 
+echo  C22-H38 ?dist 
+quick 23 24 
+echo  C23-C24 ?dist 
+quick 23 39 
+echo  C23-H39 ?dist 
+quick 24 44 
+echo  C24-H44 ?dist 
+quick 4 1 5 
+echo  C4-N1-C5 ?thet 
+quick 4 1 9 
+echo  C4-N1-C9 ?thet 
+quick 5 1 9 
+echo  C5-N1-C9 ?thet 
+quick 1 4 6 
+echo  N1-C4-C6 ?thet 
+quick 1 4 10 
+echo  N1-C4-C10 ?thet 
+quick 6 4 10 
+echo  C6-C4-C10 ?thet 
+quick 1 5 7 
+echo  N1-C5-C7 ?thet 
+quick 1 5 11 
+echo  N1-C5-C11 ?thet 
+quick 7 5 11 
+echo  C7-C5-C11 ?thet 
+quick 1 9 17 
+echo  N1-C9-C17 ?thet 
+quick 1 9 25 
+echo  N1-C9-H25 ?thet 
+quick 1 9 26 
+echo  N1-C9-H26 ?thet 
+quick 17 9 25 
+echo  C17-C9-H25 ?thet 
+quick 17 9 26 
+echo  C17-C9-H26 ?thet 
+quick 25 9 26 
+echo  H25-C9-H26 ?thet 
+quick 15 2 40 
+echo  C15-N2-H40 ?thet 
+quick 15 2 41 
+echo  C15-N2-H41 ?thet 
+quick 40 2 41 
+echo  H40-N2-H41 ?thet 
+quick 2 15 11 
+echo  N2-C15-C11 ?thet 
+quick 2 15 18 
+echo  N2-C15-C18 ?thet 
+quick 11 15 18 
+echo  C11-C15-C18 ?thet 
+quick 16 3 42 
+echo  C16-N3-H42 ?thet 
+quick 16 3 43 
+echo  C16-N3-H43 ?thet 
+quick 42 3 43 
+echo  H42-N3-H43 ?thet 
+quick 3 16 12 
+echo  N3-C16-C12 ?thet 
+quick 3 16 19 
+echo  N3-C16-C19 ?thet 
+quick 12 16 19 
+echo  C12-C16-C19 ?thet 
+quick 4 6 8 
+echo  C4-C6-C8 ?thet 
+quick 4 6 12 
+echo  C4-C6-C12 ?thet 
+quick 8 6 12 
+echo  C8-C6-C12 ?thet 
+quick 4 10 20 
+echo  C4-C10-C20 ?thet 
+quick 4 10 21 
+echo  C4-C10-C21 ?thet 
+quick 20 10 21 
+echo  C20-C10-C21 ?thet 
+quick 5 7 8 
+echo  C5-C7-C8 ?thet 
+quick 5 7 13 
+echo  C5-C7-C13 ?thet 
+quick 8 7 13 
+echo  C8-C7-C13 ?thet 
+quick 5 11 15 
+echo  C5-C11-C15 ?thet 
+quick 5 11 27 
+echo  C5-C11-H27 ?thet 
+quick 15 11 27 
+echo  C15-C11-H27 ?thet 
+quick 6 8 7 
+echo  C6-C8-C7 ?thet 
+quick 6 8 14 
+echo  C6-C8-C14 ?thet 
+quick 7 8 14 
+echo  C7-C8-C14 ?thet 
+quick 6 12 16 
+echo  C6-C12-C16 ?thet 
+quick 6 12 28 
+echo  C6-C12-H28 ?thet 
+quick 16 12 28 
+echo  C16-C12-H28 ?thet 
+quick 7 13 18 
+echo  C7-C13-C18 ?thet 
+quick 7 13 29 
+echo  C7-C13-H29 ?thet 
+quick 18 13 29 
+echo  C18-C13-H29 ?thet 
+quick 8 14 19 
+echo  C8-C14-C19 ?thet 
+quick 8 14 30 
+echo  C8-C14-H30 ?thet 
+quick 19 14 30 
+echo  C19-C14-H30 ?thet 
+quick 9 17 31 
+echo  C9-C17-H31 ?thet 
+quick 9 17 32 
+echo  C9-C17-H32 ?thet 
+quick 9 17 33 
+echo  C9-C17-H33 ?thet 
+quick 31 17 32 
+echo  H31-C17-H32 ?thet 
+quick 31 17 33 
+echo  H31-C17-H33 ?thet 
+quick 32 17 33 
+echo  H32-C17-H33 ?thet 
+quick 10 20 22 
+echo  C10-C20-C22 ?thet 
+quick 10 20 36 
+echo  C10-C20-H36 ?thet 
+quick 22 20 36 
+echo  C22-C20-H36 ?thet 
+quick 10 21 23 
+echo  C10-C21-C23 ?thet 
+quick 10 21 37 
+echo  C10-C21-H37 ?thet 
+quick 23 21 37 
+echo  C23-C21-H37 ?thet 
+quick 13 18 15 
+echo  C13-C18-C15 ?thet 
+quick 13 18 34 
+echo  C13-C18-H34 ?thet 
+quick 15 18 34 
+echo  C15-C18-H34 ?thet 
+quick 14 19 16 
+echo  C14-C19-C16 ?thet 
+quick 14 19 35 
+echo  C14-C19-H35 ?thet 
+quick 16 19 35 
+echo  C16-C19-H35 ?thet 
+quick 20 22 24 
+echo  C20-C22-C24 ?thet 
+quick 20 22 38 
+echo  C20-C22-H38 ?thet 
+quick 24 22 38 
+echo  C24-C22-H38 ?thet 
+quick 21 23 24 
+echo  C21-C23-C24 ?thet 
+quick 21 23 39 
+echo  C21-C23-H39 ?thet 
+quick 24 23 39 
+echo  C24-C23-H39 ?thet 
+quick 22 24 23 
+echo  C22-C24-C23 ?thet 
+quick 22 24 44 
+echo  C22-C24-H44 ?thet 
+quick 23 24 44 
+echo  C23-C24-H44 ?thet 
+quick 1 4 6 8 
+echo  N1-C4-C6-C8 ?phi 
+quick 1 4 6 12 
+echo  N1-C4-C6-C12 ?phi 
+quick 1 4 10 20 
+echo  N1-C4-C10-C20 ?phi 
+quick 1 4 10 21 
+echo  N1-C4-C10-C21 ?phi 
+quick 1 5 7 8 
+echo  N1-C5-C7-C8 ?phi 
+quick 1 5 7 13 
+echo  N1-C5-C7-C13 ?phi 
+quick 1 5 11 15 
+echo  N1-C5-C11-C15 ?phi 
+quick 1 5 11 27 
+echo  N1-C5-C11-H27 ?phi 
+quick 1 9 17 31 
+echo  N1-C9-C17-H31 ?phi 
+quick 1 9 17 32 
+echo  N1-C9-C17-H32 ?phi 
+quick 1 9 17 33 
+echo  N1-C9-C17-H33 ?phi 
+quick 4 1 5 7 
+echo  C4-N1-C5-C7 ?phi 
+quick 4 1 5 11 
+echo  C4-N1-C5-C11 ?phi 
+quick 4 1 9 17 
+echo  C4-N1-C9-C17 ?phi 
+quick 4 1 9 25 
+echo  C4-N1-C9-H25 ?phi 
+quick 4 1 9 26 
+echo  C4-N1-C9-H26 ?phi 
+quick 4 6 8 7 
+echo  C4-C6-C8-C7 ?phi 
+quick 4 6 8 14 
+echo  C4-C6-C8-C14 ?phi 
+quick 4 6 12 16 
+echo  C4-C6-C12-C16 ?phi 
+quick 4 6 12 28 
+echo  C4-C6-C12-H28 ?phi 
+quick 4 10 20 22 
+echo  C4-C10-C20-C22 ?phi 
+quick 4 10 20 36 
+echo  C4-C10-C20-H36 ?phi 
+quick 4 10 21 23 
+echo  C4-C10-C21-C23 ?phi 
+quick 4 10 21 37 
+echo  C4-C10-C21-H37 ?phi 
+quick 5 1 4 6 
+echo  C5-N1-C4-C6 ?phi 
+quick 5 1 4 10 
+echo  C5-N1-C4-C10 ?phi 
+quick 5 1 9 17 
+echo  C5-N1-C9-C17 ?phi 
+quick 5 1 9 25 
+echo  C5-N1-C9-H25 ?phi 
+quick 5 1 9 26 
+echo  C5-N1-C9-H26 ?phi 
+quick 5 7 8 6 
+echo  C5-C7-C8-C6 ?phi 
+quick 5 7 8 14 
+echo  C5-C7-C8-C14 ?phi 
+quick 5 7 13 18 
+echo  C5-C7-C13-C18 ?phi 
+quick 5 7 13 29 
+echo  C5-C7-C13-H29 ?phi 
+quick 2 15 11 5 
+echo  N2-C15-C11-C5 ?phi 
+quick 5 11 15 18 
+echo  C5-C11-C15-C18 ?phi 
+quick 6 4 1 9 
+echo  C6-C4-N1-C9 ?phi 
+quick 9 1 4 10 
+echo  C9-N1-C4-C10 ?phi 
+quick 7 5 1 9 
+echo  C7-C5-N1-C9 ?phi 
+quick 9 1 5 11 
+echo  C9-N1-C5-C11 ?phi 
+quick 2 15 11 27 
+echo  N2-C15-C11-H27 ?phi 
+quick 2 15 18 13 
+echo  N2-C15-C18-C13 ?phi 
+quick 2 15 18 34 
+echo  N2-C15-C18-H34 ?phi 
+quick 7 5 11 15 
+echo  C7-C5-C11-C15 ?phi 
+quick 7 13 18 15 
+echo  C7-C13-C18-C15 ?phi 
+quick 15 18 13 29 
+echo  C15-C18-C13-H29 ?phi 
+quick 11 15 2 40 
+echo  C11-C15-N2-H40 ?phi 
+quick 18 15 2 40 
+echo  C18-C15-N2-H40 ?phi 
+quick 11 15 2 41 
+echo  C11-C15-N2-H41 ?phi 
+quick 18 15 2 41 
+echo  C18-C15-N2-H41 ?phi 
+quick 3 16 12 6 
+echo  N3-C16-C12-C6 ?phi 
+quick 3 16 12 28 
+echo  N3-C16-C12-H28 ?phi 
+quick 3 16 19 14 
+echo  N3-C16-C19-C14 ?phi 
+quick 3 16 19 35 
+echo  N3-C16-C19-H35 ?phi 
+quick 8 6 12 16 
+echo  C8-C6-C12-C16 ?phi 
+quick 8 14 19 16 
+echo  C8-C14-C19-C16 ?phi 
+quick 16 19 14 30 
+echo  C16-C19-C14-H30 ?phi 
+quick 12 16 3 42 
+echo  C12-C16-N3-H42 ?phi 
+quick 19 16 3 42 
+echo  C19-C16-N3-H42 ?phi 
+quick 12 16 3 43 
+echo  C12-C16-N3-H43 ?phi 
+quick 19 16 3 43 
+echo  C19-C16-N3-H43 ?phi 
+quick 6 4 10 20 
+echo  C6-C4-C10-C20 ?phi 
+quick 6 4 10 21 
+echo  C6-C4-C10-C21 ?phi 
+quick 6 8 7 13 
+echo  C6-C8-C7-C13 ?phi 
+quick 6 8 14 19 
+echo  C6-C8-C14-C19 ?phi 
+quick 6 8 14 30 
+echo  C6-C8-C14-H30 ?phi 
+quick 6 12 16 19 
+echo  C6-C12-C16-C19 ?phi 
+quick 8 6 4 10 
+echo  C8-C6-C4-C10 ?phi 
+quick 10 4 6 12 
+echo  C10-C4-C6-C12 ?phi 
+quick 10 20 22 24 
+echo  C10-C20-C22-C24 ?phi 
+quick 10 20 22 38 
+echo  C10-C20-C22-H38 ?phi 
+quick 10 21 23 24 
+echo  C10-C21-C23-C24 ?phi 
+quick 10 21 23 39 
+echo  C10-C21-C23-H39 ?phi 
+quick 7 5 11 27 
+echo  C7-C5-C11-H27 ?phi 
+quick 7 8 6 12 
+echo  C7-C8-C6-C12 ?phi 
+quick 7 8 14 19 
+echo  C7-C8-C14-C19 ?phi 
+quick 7 8 14 30 
+echo  C7-C8-C14-H30 ?phi 
+quick 7 13 18 34 
+echo  C7-C13-C18-H34 ?phi 
+quick 8 7 5 11 
+echo  C8-C7-C5-C11 ?phi 
+quick 11 5 7 13 
+echo  C11-C5-C7-C13 ?phi 
+quick 11 15 18 13 
+echo  C11-C15-C18-C13 ?phi 
+quick 11 15 18 34 
+echo  C11-C15-C18-H34 ?phi 
+quick 8 6 12 28 
+echo  C8-C6-C12-H28 ?phi 
+quick 8 7 13 18 
+echo  C8-C7-C13-C18 ?phi 
+quick 8 7 13 29 
+echo  C8-C7-C13-H29 ?phi 
+quick 8 14 19 35 
+echo  C8-C14-C19-H35 ?phi 
+quick 12 6 8 14 
+echo  C12-C6-C8-C14 ?phi 
+quick 12 16 19 14 
+echo  C12-C16-C19-C14 ?phi 
+quick 12 16 19 35 
+echo  C12-C16-C19-H35 ?phi 
+quick 13 7 8 14 
+echo  C13-C7-C8-C14 ?phi 
+quick 25 9 17 31 
+echo  H25-C9-C17-H31 ?phi 
+quick 25 9 17 32 
+echo  H25-C9-C17-H32 ?phi 
+quick 25 9 17 33 
+echo  H25-C9-C17-H33 ?phi 
+quick 26 9 17 31 
+echo  H26-C9-C17-H31 ?phi 
+quick 26 9 17 32 
+echo  H26-C9-C17-H32 ?phi 
+quick 26 9 17 33 
+echo  H26-C9-C17-H33 ?phi 
+quick 20 10 21 23 
+echo  C20-C10-C21-C23 ?phi 
+quick 20 10 21 37 
+echo  C20-C10-C21-H37 ?phi 
+quick 20 22 24 23 
+echo  C20-C22-C24-C23 ?phi 
+quick 20 22 24 44 
+echo  C20-C22-C24-H44 ?phi 
+quick 21 10 20 22 
+echo  C21-C10-C20-C22 ?phi 
+quick 21 10 20 36 
+echo  C21-C10-C20-H36 ?phi 
+quick 21 23 24 22 
+echo  C21-C23-C24-C22 ?phi 
+quick 21 23 24 44 
+echo  C21-C23-C24-H44 ?phi 
+quick 18 15 11 27 
+echo  C18-C15-C11-H27 ?phi 
+quick 19 16 12 28 
+echo  C19-C16-C12-H28 ?phi 
+quick 29 13 18 34 
+echo  H29-C13-C18-H34 ?phi 
+quick 30 14 19 35 
+echo  H30-C14-C19-H35 ?phi 
+quick 22 24 23 39 
+echo  C22-C24-C23-H39 ?phi 
+quick 24 22 20 36 
+echo  C24-C22-C20-H36 ?phi 
+quick 36 20 22 38 
+echo  H36-C20-C22-H38 ?phi 
+quick 23 24 22 38 
+echo  C23-C24-C22-H38 ?phi 
+quick 24 23 21 37 
+echo  C24-C23-C21-H37 ?phi 
+quick 37 21 23 39 
+echo  H37-C21-C23-H39 ?phi 
+quick 38 22 24 44 
+echo  H38-C22-C24-H44 ?phi 
+quick 39 23 24 44 
+echo  H39-C23-C24-H44 ?phi 
